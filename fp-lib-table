@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "1projectFootprints")(type "KiCad")(uri "${KIPRJMOD}/inputs/pcb_footprints/1projectFootprintsLibrary.pretty")(options "")(descr ""))
+)
